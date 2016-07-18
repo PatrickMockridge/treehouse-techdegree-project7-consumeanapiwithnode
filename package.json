@@ -1,0 +1,16 @@
+{
+  "name": "treehouse-techdegree-project7-consumeanapiwithnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "pug": "^2.0.0-alpha8",
+    "twitter": "^1.3.0"
+  }
+}
